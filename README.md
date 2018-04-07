@@ -1,2 +1,0 @@
-# Platzigram
-Proyecto de practica
